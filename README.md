@@ -24,6 +24,12 @@ npm install
 npm run dev
 ```
 
+## Ekran Görüntüleri
+
+![Ana Sayfa](public/main-menu.png)
+
+![Yeni Ekle](public/download.png)
+
 ## Proje Yapısı
 
 ```
